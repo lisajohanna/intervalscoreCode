@@ -1,4 +1,4 @@
-# intervalscoreCode
+# Comparing Confidence Intervals for a Binomial Proportion with the Interval Score
 Figures can be reproduced in three steps (in this order):
 
 1. Load the functions in functions.R
