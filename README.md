@@ -1,4 +1,6 @@
 # Comparing Confidence Intervals for a Binomial Proportion with the Interval Score
+This GitHub repository accompanies the arXiv preprint [arXiv:2207.03199](https://arxiv.org/abs/2207.03199).
+
 Figures can be reproduced in three steps (in this order):
 
 1. Load the functions in functions.R
